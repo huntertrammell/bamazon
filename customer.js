@@ -8,8 +8,8 @@ const chalk = require('chalk')
 //color scheme
 const list = chalk.white
 const heading = chalk.bold.inverse
-const selection = chalk.bgGreen
-const question = chalk.bgYellow
+const selection = chalk.green
+const question = chalk.blue
 const error = chalk.red
 
 const connection = mysql.createConnection({
