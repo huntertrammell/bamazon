@@ -16,7 +16,7 @@ after this is setup all you should need to is type *npm i* into the terminal to 
 
 Open GIT bash and run the customer.js file, you will be prompted to type the ID of the item you wish to purchase, then you will be prompted to type the quantity. After this information has been entered, provided that the ID and qty requested are valid, it will read off a purchase summary and a total. The quantity of the item will then be updated in the database.
 
-![alt text](images/demo.png)
+![demo](images/demo.png)
 
 I am working on adding another file that will add manager functions to the application. This will provide the user the ability to add items to the database, view sales, and view inventory levels. I will update the read-me and repository once this has been completed.
 
