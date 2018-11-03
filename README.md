@@ -12,7 +12,7 @@ Once your server is setup you will need to create a .env file that contains the 
     
     password=[YOUR PASSWORD]
     
-after this is setup all you should need to do is initialize and install the application and dependencies in the package.json file.
+after this is setup all you should need to is type *npm i* into the terminal to install the dependancies of the package.json file
 
 Open GIT bash and run the customer.js file, you will be prompted to type the ID of the item you wish to purchase, then you will be prompted to type the quantity. After this information has been entered, provided that the ID and qty requested are valid, it will read off a purchase summary and a total. The quantity of the item will then be updated in the database.
 
