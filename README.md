@@ -14,8 +14,8 @@ Once your server is setup you will need to create a .env file that contains the 
     
 after this is setup all you should need to do is initialize and install the application and dependencies in the package.json file.
 
-Open GIT bash and run the customer.js file to purchase any of the items I randomly selected.
+Open GIT bash and run the customer.js file, you will be prompted to type the ID of the item you wish to purchase, then you will be prompted to type the quantity. After this information has been entered, provided that the ID and qty requested are valid, it will read off a purchase summary and a total. The quantity of the item will then be updated in the database.
 
-I am working on completing the manager.js file. this will provide the user the ability to add items to the database, view sales, and view inventory levels. I will update the read-me and repository once this has been completed.
+I am working on adding another file that will add manager functions to the application. This will provide the user the ability to add items to the database, view sales, and view inventory levels. I will update the read-me and repository once this has been completed.
 
 Enjoy!
